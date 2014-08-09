@@ -2,3 +2,4 @@
 [] feed dog
 [] take a nap
 [] make dinner 
+[] watch Scandal
